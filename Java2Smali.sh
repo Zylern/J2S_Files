@@ -91,7 +91,7 @@ echo -e "$blue ╋╋┃┣━━┳┓┏┳━━╋┛┏┛┃┗━━┳�
 echo -e "$blue ┏┓┃┃┏┓┃┗┛┃┏┓┣━┛┏┻━━┓┃┗┛┃┏┓┃┃┣┫"
 echo -e "$blue ┃┗┛┃┏┓┣┓┏┫┏┓┃┃┗━┫┗━┛┃┃┃┃┏┓┃┗┫┃"
 echo -e "$blue ┗━━┻┛┗┛┗┛┗┛┗┻━━━┻━━━┻┻┻┻┛┗┻━┻┛v2.0"
-echo -e "$purple Project by Mahmud(@King_Mahmud_2005)
+echo -e "$purple Project by Mahmud(@King_Mahmud_2005)"
 echo -e "$blue Special thanks to Rahat(@BotXrahat){For d8 and r8 jar}\n Zylern(@Zylern){Design and Code Structure}""
 echo -e "$yellow Always respect and love to Euzada(@euzada), Mhamad(@thestranger01), Qwerty(@qwerty_q101), Kirlif and Nijoo(@rockz5555)"
 echo -e "$green Thanks to them for helping rise to the level i am currently on"
